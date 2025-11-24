@@ -20,7 +20,7 @@ When you update the `policy.yaml` file and push changes to GitHub:
 ## Project Structure
 
 ```text
-devops_sdn_project/
+DevOps/
 ├── policy.yaml
 ├── requirements.txt
 ├── README.md

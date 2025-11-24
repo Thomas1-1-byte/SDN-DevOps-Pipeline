@@ -47,22 +47,22 @@ devops_sdn_project/
    cd ~/Documents
    ```
 
-2. **Create a folder and unzip the project** (if you downloaded a ZIP from ChatGPT).
+2. **Create a folder (DevOps) and open the project**.
 
-   - Move the ZIP into this folder.
-   - Then unzip it (or use Finder).
+   - Move newly created files into this folder.
+   - Then open it (or use Finder).
 
-   If you're already in the project folder after unzipping, you should see something like:
+   If you're already in the project folder after opening, you should see something like:
 
    ```bash
    ls
-   devops_sdn_project
+   DevOps
    ```
 
 3. **Change into the project directory:**
 
    ```bash
-   cd devops_sdn_project
+   cd DevOps
    ```
 
 4. **(Optional but recommended) Create a virtual environment:**
@@ -84,7 +84,7 @@ devops_sdn_project/
 
 ### 1. Run the tests
 
-From inside `devops_sdn_project`:
+From inside `DevOps`:
 
 ```bash
 pytest controller/tests
